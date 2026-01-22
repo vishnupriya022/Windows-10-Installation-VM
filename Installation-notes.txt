@@ -7,11 +7,10 @@
 - Followed the Windows 10 setup wizard.
 - Completed initial setup: region, keyboard, username, and password.
 - Installed VirtualBox Guest Additions for better performance.
-- Optional: Took a snapshot after installation for backup.
 
 
 2.Observations
 
 - Installation was smooth, no errors faced.
 - VM performance is good with 8GB RAM and 60GB disk.
-- Screenshots were taken during installation for documentation.
+
